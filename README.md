@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working projects<br>👯 I’m looking to collaborate on front end and C stack<br>🤝 I’m looking for help with connections<br>🌱 I’m currently learning React.JS, Typescript, Python<br>
+🔭 I’m currently working on  projects<br>👯 I’m looking to collaborate on front end and C stack<br>🤝 I’m looking for help with connections<br>🌱 I’m currently learning React.JS, Typescript, Python<br>
 
 
 ## 🌐 Socials:
