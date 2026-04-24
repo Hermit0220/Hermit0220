@@ -22,5 +22,5 @@
 
 
 #   About Me:
-🤝 I’m looking to collaborate for collaborations<br>
+🤝 I’m currently looking for collaborations<br>
 
