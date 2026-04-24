@@ -1,10 +1,6 @@
 ![abeab5e6c8616f0ef6c8e299a14c7598](https://github.com/user-attachments/assets/ba9589a6-3d78-41fc-8b90-ee3747609eac)
 
 
-# 💫 About Me:
-🔭 I’m currently working on  projects<br>👯 I’m looking to collaborate on front end and C stack<br>🤝 I’m looking for help with connections<br>🌱 I’m currently learning React.JS, Typescript, Python<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_herm1t) 
 
@@ -24,5 +20,7 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Herm1t) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+#   About Me:
+🤝 I’m looking to collaborate for collaborations<br>
+
