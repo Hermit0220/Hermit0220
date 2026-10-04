@@ -12,8 +12,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=HERMIT0220&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HERMIT0220&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://streak-stats.demolab.com/?user=HERMIT0220&theme=radical&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HERMIT0220&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
